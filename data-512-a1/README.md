@@ -18,18 +18,18 @@ The final data is present in the file en-wikipedia_traffic_200801-202008.csv.
 
 #### Description of fields of the final data: 
 
-year: The year in the YYYY format.
+- year: The year in the YYYY format.
+ 
+- month: The month in MM format.
 
-month: The month in MM format.
+- pagecount_all_views: The view counts from both desktop and mobile collected from Legacy Pagecounts API.
 
-pagecount_all_views: The view counts from both desktop and mobile collected from Legacy Pagecounts API.
+- pagecount_desktop_views: The number of views from desktop collected from Legacy Pagecounts API.
 
-pagecount_desktop_views: The number of views from desktop collected from Legacy Pagecounts API.
+- pagecount_mobile_views: The number of views from mobile collected from Legacy Pagecounts API.
 
-pagecount_mobile_views: The number of views from mobile collected from Legacy Pagecounts API.
+- pageview_all_views: The number of views from desktop, mobile-web and mobile-app users collected from Pageviews API.
 
-pageview_all_views: The number of views from desktop, mobile-web and mobile-app users collected from Pageviews API.
+- pageview_desktop_views: The number of views from desktop users collected from Pageviews API.
 
-pageview_desktop_views: The number of views from desktop users collected from Pageviews API.
-
-pageview_mobile_views: The number of views from mobile-web and mobile-app users collected from Pageviews API.
+- pageview_mobile_views: The number of views from mobile-web and mobile-app users collected from Pageviews API.
