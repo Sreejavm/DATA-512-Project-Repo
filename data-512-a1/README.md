@@ -6,9 +6,9 @@ The goal of this project is to construct, analyze, and publish a dataset of mont
 
 The data about Wikipedia page traffic from two different [Wikimedia_REST_API](https://www.mediawiki.org/wiki/Wikimedia_REST_API) endpoints have been combined into a single dataset.
 
-[The Legacy Pagecounts API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts) , [2](https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end) provides access to desktop and mobile traffic data from December 2007 through July 2016.
+The Legacy Pagecounts API - [documentation] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts) , [endpoint](https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end) provides access to desktop and mobile traffic data from December 2007 through July 2016.
 
-[The Pageviews API] (documentation (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts), [endpoint] (Links to an external site.)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through last month.
+The Pageviews API - [documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts), [endpoint] (Links to an external site.)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through last month.
 
 Licence: Please read the licence and terms of use of Wikimedia Foundation REST API from here.
 
