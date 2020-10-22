@@ -39,7 +39,7 @@ Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.re
 - matplotlib
 
 ## Inference
-![alt text](https://github.com/Sreejavm/DATA-512-Project-Repo/blob/main/output/output1.png)
+![alt text](https://github.com/Sreejavm/DATA-512-Project-Repo/blob/main/data-512-a2/output/output1.png)
 - As it can been seen above, toxicity and attack is almost simliar to each other when compared across different age groups, people with different levels of education and their gender
 - Majority of the highly attacking/toxic people have bachelors of high school degree. This coincides with the real world data in that people with higher levels of educations are lesser in comparision.
 - As seen above, the nearly half the amount of workers belong to 18-30 age group
@@ -50,7 +50,7 @@ Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.re
 - There is bias is the count of femalte workers in comparision with the count of male workers
 
 
-![alt text](https://github.com/Sreejavm/DATA-512-Project-Repo/blob/main/output/outpu2.png)
+![alt text](https://github.com/Sreejavm/DATA-512-Project-Repo/blob/main/data-512-a2/output/outpu2.png)
 - As it can be seen above female workers are more likely to label a comment as attach than aggression
 - Male workers tend to perceive more comments as aggression than female workers
 - This bias based on gender in addition to parity in the number of male and female workers will likely result in incorrect labelling of comments. Since male workers are dominating, models are more likely to perceive a comments as aggression based on the above data.
