@@ -21,6 +21,7 @@ Requirements:
 This analysis was prepared using Python 3.7 running in a Jupyter Notebook environment.
 
 Documentation for Python can be found here: https://docs.python.org/3.7/
+
 Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/
 
 License:
