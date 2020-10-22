@@ -11,7 +11,9 @@ Dataset Sources:
 The Datasets used in the analysis can be found in https://figshare.com/projects/Wikipedia_Talk/16731
 
 Toxicity - Datasets https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973
+
 Aggression - Datasets https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Aggression/4267550Personal 
+
 Attack - Datasets https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Personal_Attacks/4054689
 
 Requirements:
