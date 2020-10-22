@@ -26,5 +26,5 @@ Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.re
 
 ## License:
 
-This project code is released under MIT Licence(https://opensource.org/licenses/MIT).
+This project code is released under [MIT Licence](https://opensource.org/licenses/MIT).
 
