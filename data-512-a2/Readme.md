@@ -10,7 +10,7 @@ The corpus you will use is called the Wikipedia Talk corpus, and it consists of 
 
 ## Dataset Sources:
 
-The Datasets used in the analysis can be found below
+The Datasets used in the analysis can be found below. In the analysis, wget is used to directly download the dataset since the dataset could not be uploaded entirely due to size limitations
 
 Toxicity - [Datasets](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973)
 
@@ -20,9 +20,6 @@ Attack - [Datasets](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_
 
 ## Directory Strucuture:
 - code/hcds-a2-data-bias.ipynb -> Main code for analysis
-- data/attack/ -> attack dataset
-- data/aggression/ -> aggression dataset
-- data/toxicity/ -> toxicity dataset
 
 ## Requirements:
 
